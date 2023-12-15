@@ -1,0 +1,3 @@
+Some text is here
+and some text is there
+Some text is everywhere

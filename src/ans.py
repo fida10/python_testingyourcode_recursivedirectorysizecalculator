@@ -34,4 +34,5 @@ def calculate_directory_size(directory_to_check):
     return total_sum
     
 
-print(calculate_directory_size('test_folder')) # added to print and test this out
+# added to print and test this out
+print(calculate_directory_size('test_folder/other_file_two/other_file_three'))
